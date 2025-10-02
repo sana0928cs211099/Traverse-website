@@ -3,7 +3,7 @@ import React from 'react';
 import {createBrowserRouter , Outlet, RouterProvider} from 'react-router-dom'
 import Home from './Pages/Home/Home';
 import Navbar from './Components/navbar/Navbar';
-import Offer from './Components/offer/offer';
+import Offer from './Components/offer/Offer';
 import Footer from './Components/footer/Footer';
 import Flight from './Pages/Flight/Flight';
 import Stay from './Pages/Stays/Stay';
