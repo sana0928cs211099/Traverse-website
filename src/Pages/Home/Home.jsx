@@ -1,5 +1,5 @@
 import React from 'react'
-import Offer from '../../Components/offer/offer';
+import Offer from '../../Components/offer/Offer';
 import PopularFl from '../../Components/popularflight/PopularFl';
 import Staysp from '../../Components/stays/Staysp';
 import PackageH from '../../Components/packageH/PackageH';
